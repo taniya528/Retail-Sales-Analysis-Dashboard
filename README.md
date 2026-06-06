@@ -5,6 +5,7 @@ A data analytics project that analyzes Retail Sales data using Python, Pandas, M
 
 ## Datasets
 [Download Dataset Project](https://github.com/taniya528/Retail-Sales-Analysis-Dashboard/blob/main/Python_project.ipynb)
+
 [Datafile](https://github.com/taniya528/Retail-Sales-Analysis-Dashboard/blob/main/SampleSuperstore.csv)
 
 ## Tools & Technologies
